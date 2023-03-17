@@ -1,3 +1,6 @@
+## Paco Modified ##
+This was added by paco 
+
 ## Hello, OpenShift for Developers! ##
 This is a example that will serve an HTTP response of "Hello OpenShift for Developers!" written in Golang. It is also
 intended to be build and used with the [Golang Source-to-Image builder image](https://github.com/sclorg/golang-container).  This builder image is included in current versions of OpenShift (4.7 at the time).
