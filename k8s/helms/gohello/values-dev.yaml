@@ -9,7 +9,7 @@ image:
   #repository: registry.redhat.io/openshift-pipelines/pipelines-entrypoint-rhel8@sha256
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "6bb87c537c6ba9878688a490a572acba495dd478202bacba4d83ca2a9406b580"
+^  tag: ""
 
 imagePullSecrets: []
 nameOverride: ""
