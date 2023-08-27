@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: quay.apps.test.lab.local/dev/gohello@sha256
+  repository: quay.apps.test.lab.local/dev/gohello
   #repository: registry.redhat.io/openshift-pipelines/pipelines-entrypoint-rhel8@sha256
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
